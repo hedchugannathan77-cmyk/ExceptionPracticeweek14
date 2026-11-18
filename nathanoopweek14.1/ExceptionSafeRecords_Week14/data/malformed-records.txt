@@ -1,0 +1,8 @@
+R010|Valid Before Error|2
+
+R011|Missing Quantity
+R012|Invalid Quantity|abc
+R013||7
+R010|Duplicate Identifier|9
+R014|Valid After Errors|4
+R015|Too|Many|Fields

@@ -1,0 +1,25 @@
+=== EXCEPTION-SAFE RECORDS: WEEK 14 ===
+Data file: /mnt/data/ExceptionSafeRecords_Week14/data/records.txt
+Loaded 2 valid record(s).
+File warnings:
+ - Line 3: Expected exactly 3 fields (ID|NAME|QUANTITY). Line skipped.
+ - Line 4: quantity is not a valid whole number; line skipped.
+ - Line 5: Record name cannot be blank. Line skipped.
+ - Line 6: duplicate ID 'R010'; line skipped.
+ - Line 8: Expected exactly 3 fields (ID|NAME|QUANTITY). Line skipped.
+
+1 - Add record
+2 - Display records
+3 - Save records
+0 - Save and exit
+Choose: --- SAVED/LOADED RECORDS ---
+ID: R010 | Name: Valid Before Error | Quantity: 2
+ID: R014 | Name: Valid After Errors | Quantity: 4
+Total records: 2
+
+1 - Add record
+2 - Display records
+3 - Save records
+0 - Save and exit
+Choose: Saved 2 record(s) successfully.
+Application closed.

@@ -1,0 +1,19 @@
+=== EXCEPTION-SAFE RECORDS: WEEK 14 ===
+Data file: /mnt/data/ExceptionSafeRecords_Week14/data/records.txt
+Loaded 1 valid record(s).
+No malformed-line warnings.
+
+1 - Add record
+2 - Display records
+3 - Save records
+0 - Save and exit
+Choose: --- SAVED/LOADED RECORDS ---
+ID: R900 | Name: First Run Sample | Quantity: 6
+Total records: 1
+
+1 - Add record
+2 - Display records
+3 - Save records
+0 - Save and exit
+Choose: Saved 1 record(s) successfully.
+Application closed.

@@ -1,0 +1,13 @@
+FI01 PASS: Missing file returns empty records.
+FI02 PASS: Three valid lines reconstructed as three records.
+FI03 PASS: Blank line skipped; valid records on both sides loaded.
+FI04 PASS: Missing field reported: Line 3: Expected exactly 3 fields (ID|NAME|QUANTITY). Line skipped.
+FI05 PASS: Invalid numeric field reported: Line 4: quantity is not a valid whole number; line skipped.
+MALFORMED WARNINGS:
+ - Line 3: Expected exactly 3 fields (ID|NAME|QUANTITY). Line skipped.
+ - Line 4: quantity is not a valid whole number; line skipped.
+ - Line 5: Record name cannot be blank. Line skipped.
+ - Line 6: duplicate ID 'R010'; line skipped.
+FI06 PASS: Saved record restored with matching values after reload.
+FI07 PASS: Invalid destination reports IOException; no false success.
+ALL REPOSITORY CHECKS PASSED.

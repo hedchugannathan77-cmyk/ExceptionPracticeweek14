@@ -1,0 +1,18 @@
+=== EXCEPTION-SAFE RECORDS: WEEK 14 ===
+Data file: /mnt/data/ExceptionSafeRecords_Week14/data/records.txt
+Loaded 0 valid record(s).
+No malformed-line warnings.
+
+1 - Add record
+2 - Display records
+3 - Save records
+0 - Save and exit
+Choose: Record ID: Name: Quantity: Record added successfully.
+Saved 1 record(s) successfully.
+
+1 - Add record
+2 - Display records
+3 - Save records
+0 - Save and exit
+Choose: Saved 1 record(s) successfully.
+Application closed.

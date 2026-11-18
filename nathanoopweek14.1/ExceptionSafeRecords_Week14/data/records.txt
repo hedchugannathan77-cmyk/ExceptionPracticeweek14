@@ -1,0 +1,3 @@
+R001|Sample One|5
+R002|Sample Two|10
+R003|Sample Three|15
